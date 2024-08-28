@@ -29,7 +29,7 @@ Herhangi bir sorunuz veya öneriniz varsa, lütfen iletişime geçmekten çekinm
 
 Geliştirici topluluğumuza katılın ve diğer geliştiricilerle etkileşimde bulunun!
 
-[![MSI Development](https://img.shields.io/badge/Discord-MSI Development-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/msidev)
+[![Discord Banner](https://api.weblutions.com/discord/invite/msidev/)](https://discord.gg/msidev)
 
 ## Lisans
 
